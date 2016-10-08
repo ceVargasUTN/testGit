@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1475887081 source:d:\parcial.eli\vargas.carla\f_alquieleres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headers.h"
+
+1475887225 d:\parcial.eli\vargas.carla\headers.h
+
+1475885709 source:d:\parcial.eli\vargas.carla\f_clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headers.h"
+
+1475881728 source:d:\parcial.eli\vargas.carla\f_genericas.c
+	<stdio.h>
+	<stdlib.h>
+	"headers.h"
+
+1475885709 source:d:\parcial.eli\vargas.carla\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headers.h"
+
